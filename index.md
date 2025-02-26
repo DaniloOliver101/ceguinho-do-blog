@@ -1,4 +1,4 @@
-#Blog do Ceguinho 
+# Bem-vindo ao meu blog! 👋  
 
 ## Sobre mim  
 Olá, meu nome é **Danilo**, sou **engenheiro de software** e tenho cegueira. Compartilho minha jornada e conhecimentos em tecnologia, acessibilidade e desenvolvimento de software.  
