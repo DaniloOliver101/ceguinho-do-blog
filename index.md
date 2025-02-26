@@ -1,10 +1,8 @@
-# Blog do Ceguinho
+# Ceguinho do Blog
 
 ## Sobre mim  
-Olá, meu nome é **Danilo**, sou **engenheiro de software** e tenho cegueira. Compartilho minha jornada e conhecimentos em tecnologia, acessibilidade e desenvolvimento de software.  
-Me chamo carinhosamente de **#Ceguinho da Tech** e acredito que tecnologia deve ser acessível para todos!  
-
+Olá, meu nome é **Danilo**, sou **engenheiro de software** e tenho cegueira. 
 ## 📚 Artigos  
-Aqui você encontrará conteúdos sobre diversos temas de tecnologia, incluindo **Java, acessibilidade e muito mais**.  
+Aqui vou escrever sobre o que vier na minha mente com um filtro para não traumatizar vocês. O Blog será voltado para tecnologia, incluindo **Java, acessibilidade e muito mais**.  
 
-- [Como configurar o ambiente Java no Windows para usuários de leitor de telas](artigos/configurar-amb
+- [Como configurar o ambiente Java no Windows para usuários de leitor de telas](/artigos/configurar-ambiente-java.md
